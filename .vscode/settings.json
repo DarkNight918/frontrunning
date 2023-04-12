@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.cursorWidth": 100,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.lineHeight": 1,
+    "terminal.integrated.letterSpacing": 0.5,
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiBlack",
+    "terminal.integrated.tabs.defaultIcon": "beaker"
+}
